@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there! I'm Ryuucyou / 劉 暢
 
-<!--
-**ryuucyou/ryuucyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+社内SEとしてDX推進・業務改善に従事しているエンジニアです。  
+Vue / Java / Rails を中心に、業務課題に寄り添った改善提案と開発を一貫して担当しています。  
+今後はクラウドやAIを活用した、よりスケールの大きな領域にも挑戦していきたいです。
 
-Here are some ideas to get you started:
+I’m a bilingual (JP/CH) software engineer based in Japan, focusing on in-house DX, system improvements, and user-oriented problem-solving.  
+Looking to grow in cloud and data-driven technologies 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Featured Projects
+- 🧠 [Tagoozen - Chrome拡張機能](https://github.com/ryuucyou/Tagoozen)  
+　開発環境識別ラベル表示ツール。操作ミス防止に貢献
+
+---
+
+## 🛠️ Tech Stack
+
+`Java` `Vue.js` `Ruby on Rails` `JavaScript`  
+`Spring Boot` `SQL Server` `Docker` `GitHub`  
+`AWS (learning)` `Terraform (learning)`
+
+---
+
+## 🌏 Languages
+
+- 🇨🇳 Chinese: Native  
+- 🇯🇵 Japanese: Business level（要件定義・ユーザー対応・資料作成経験あり）  
+- 🇬🇧 English: Intermediate（technical reading, writing practice）
+
+---
+
+📍Based in Tokyo, Japan / Open to new challenges
