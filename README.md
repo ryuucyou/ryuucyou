@@ -12,7 +12,8 @@ Looking to grow in cloud and data-driven technologies 🚀
 ## 🌟 Featured Projects
 - 🧠 [Tagoozen - Chrome拡張機能](https://github.com/ryuucyou/Tagoozen)  
 　開発環境識別ラベル表示ツール。操作ミス防止に貢献
-
+- 🎥 [youtube-gemini-summarizer](https://github.com/ryuucyou/youtube-gemini-summarizer)  
+　YouTube動画を日本語・中国語・英語で自動要約するAIツール（Gemini使用） 
 ---
 
 ## 🛠️ Tech Stack
